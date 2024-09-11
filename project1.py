@@ -78,7 +78,6 @@ def check_if_game_over():
 #check for winner
 def check_win():
 
-	# to set up global variable
 	global winner
 
 	# check the rows
@@ -190,14 +189,3 @@ def flip_player():
 
 play_game()
 
-
-# board
-# display board
-# play game
-# handle turn
-# check win
-	#check rows
-	#check columns
-	#check diagnosis
-# check tie
-# flip player
